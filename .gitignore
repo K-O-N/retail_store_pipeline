@@ -9,3 +9,7 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
+config.ini
+service_account.json
+*.log
+include/gcp/
