@@ -12,4 +12,4 @@ airflow.db
 config.ini
 service_account.json
 *.log
-include/gcp/
+include/gcp/service_account.json
