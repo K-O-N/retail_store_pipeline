@@ -14,15 +14,15 @@ Set Up & Installation
 
 Data Pipeline
 ================
-![](data pipeline.png)
-
-Data Modelling
-================
-![](ERD.png)
+![](datapipeline.png)
 
 Airflow Dags
 ================
 ![](Dag.png)
+
+Data Modelling
+================
+![](ERD.png)
 
 Project Contents
 ================
