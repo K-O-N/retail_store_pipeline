@@ -12,9 +12,20 @@ Set Up & Installation
 - Configuring Google Cloud credentials
 - Setting up BigQuery & GCS buckets
 
+Data Pipeline
+================
+![](data pipeline.png)
+
+Data Modelling
+================
+![](ERD.png)
+
+Airflow Dags
+================
+![](Dag.png)
+
 Project Contents
 ================
-
 Your Astro project contains the following files and folders:
 
 - dags: This folder contains the Python files for your Airflow DAGs. By default, this directory includes one example DAG:
