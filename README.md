@@ -1,7 +1,16 @@
 Overview
 ========
 
-Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
+This is a robust and scalable data pipeline project built using Astro CLI, Apache Airflow, dbt, Google Cloud Storage (GCS), and BigQuery. This pipeline is designed to automate data ingestion, transformation, and loading while ensuring maintainability, scalability, and observability.
+
+The workflow involves orchestrating data movement using Airflow, transforming datasets with dbt, leveraging cloud storage for staging, and efficiently querying structured data using BigQuery. 
+
+Set Up & Installation
+=====================
+- Prerequisites (Python, Cloud SDK, dbt, etc.)
+- Installing Astro CLI & setting up an Airflow environment
+- Configuring Google Cloud credentials
+- Setting up BigQuery & GCS buckets
 
 Project Contents
 ================
