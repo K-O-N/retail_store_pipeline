@@ -24,6 +24,10 @@ Data Modelling
 ================
 ![](ERD.png)
 
+Data Modelling
+================
+![](dashboard.png)
+
 Project Contents
 ================
 Your Astro project contains the following files and folders:
